@@ -87,7 +87,6 @@ header{
     font-weight: 700;
     text-transform: uppercase;
     line-height: 1.2;
-    color: green;
 }
 
 .header-content p{
@@ -209,7 +208,7 @@ header{
 }
 
 .faq-box.active p{
-    min-height: 100px;
+    height: fit-content;
     padding: 10px;
 }
 
