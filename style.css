@@ -208,7 +208,7 @@ header{
 }
 
 .faq-box.active p{
-    min-height: 400px;
+    height: fit-content;
     padding: 10px;
 }
 
